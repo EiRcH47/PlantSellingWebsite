@@ -1,0 +1,737 @@
+# Copyright (C) 2016 Tbay Framework
+# This file is distributed under the same license as the Tbay Framework package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tbay Framework\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tbay-framework\n"
+"POT-Creation-Date: 2019-08-28 16:18+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-tbay-megamenu.php:56
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:60
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:101
+msgid "Edit Menu Item"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:110
+msgid "URL"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:117
+msgid "Navigation Label"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:123
+msgid "Title Attribute"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:130
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:135
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:141
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:147
+msgid "Description"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:149
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:171
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:184
+msgid "Remove"
+msgstr ""
+
+#: classes/class-tbay-megamenu.php:185
+msgid "Cancel"
+msgstr ""
+
+#: classes/post-types/brand.php:24
+msgid "Tbay Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:25
+msgid "Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:26 classes/post-types/brand.php:27
+msgid "Add New Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:28
+msgid "Edit Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:29
+msgid "New Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:30
+msgid "All Brands"
+msgstr ""
+
+#: classes/post-types/brand.php:31
+msgid "View Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:32
+msgid "Search Brand"
+msgstr ""
+
+#: classes/post-types/brand.php:33
+msgid "No Brands found"
+msgstr ""
+
+#: classes/post-types/brand.php:34
+msgid "No Brands found in Trash"
+msgstr ""
+
+#: classes/post-types/brand.php:36
+msgid "Tbay Brands"
+msgstr ""
+
+#: classes/post-types/brand.php:57
+msgid "Brand Information"
+msgstr ""
+
+#: classes/post-types/brand.php:73
+msgid "Brand Link"
+msgstr ""
+
+#: classes/post-types/footer.php:24
+msgid "Tbay Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:25
+msgid "Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:26 classes/post-types/footer.php:27
+msgid "Add New Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:28
+msgid "Edit Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:29
+msgid "New Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:30
+msgid "All Footers"
+msgstr ""
+
+#: classes/post-types/footer.php:31
+msgid "View Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:32
+msgid "Search Footer"
+msgstr ""
+
+#: classes/post-types/footer.php:33
+msgid "No Footers found"
+msgstr ""
+
+#: classes/post-types/footer.php:34
+msgid "No Footers found in Trash"
+msgstr ""
+
+#: classes/post-types/footer.php:36
+msgid "Tbay Footers"
+msgstr ""
+
+#: classes/post-types/megamenu.php:33 classes/post-types/megamenu.php:45
+msgid "Tbay Megamenu"
+msgstr ""
+
+#: classes/post-types/megamenu.php:34
+msgid "Megamenu"
+msgstr ""
+
+#: classes/post-types/megamenu.php:35 classes/post-types/megamenu.php:36
+msgid "Add New Megamenu"
+msgstr ""
+
+#: classes/post-types/megamenu.php:37
+msgid "Edit Megamenu"
+msgstr ""
+
+#: classes/post-types/megamenu.php:38
+msgid "New Megamenu"
+msgstr ""
+
+#: classes/post-types/megamenu.php:39
+msgid "All Megamenus"
+msgstr ""
+
+#: classes/post-types/megamenu.php:40
+msgid "View Megamenu"
+msgstr ""
+
+#: classes/post-types/megamenu.php:41
+msgid "Search Megamenu"
+msgstr ""
+
+#: classes/post-types/megamenu.php:42
+msgid "No Megamenus found"
+msgstr ""
+
+#: classes/post-types/megamenu.php:43
+msgid "No Megamenus found in Trash"
+msgstr ""
+
+#: classes/post-types/megamenu.php:80
+msgid "Icon Font (Awesome):"
+msgstr ""
+
+#: classes/post-types/megamenu.php:84
+#, php-format
+msgid ""
+"This support display icon from <a href=\"%s\" target=\"_blank\">FontAwsome</"
+"a>, <a href=\"%s\" target=\"_blank\">Material Design Iconic</a> and <a href="
+"\"%s\" target=\"_blank\">Simple Line</a>"
+msgstr ""
+
+#: classes/post-types/megamenu.php:87
+msgid "Icon Image:"
+msgstr ""
+
+#: classes/post-types/megamenu.php:98
+msgid "You can use Icon Font or Icon Image"
+msgstr ""
+
+#: classes/post-types/megamenu.php:103
+msgid "Megamenu Profile"
+msgstr ""
+
+#: classes/post-types/megamenu.php:105
+msgid "Disable"
+msgstr ""
+
+#: classes/post-types/megamenu.php:112
+msgid "Sub Megamenu Management"
+msgstr ""
+
+#: classes/post-types/megamenu.php:113
+msgid "If enabled megamenu, its submenu will be disabled"
+msgstr ""
+
+#: classes/post-types/megamenu.php:117
+msgid "Width:"
+msgstr ""
+
+#: classes/post-types/megamenu.php:124
+msgid "Left"
+msgstr ""
+
+#: classes/post-types/megamenu.php:125
+msgid "Right"
+msgstr ""
+
+#: classes/post-types/megamenu.php:126
+msgid "Fullwidth"
+msgstr ""
+
+#: classes/post-types/megamenu.php:130
+msgid "Alignment:"
+msgstr ""
+
+#: classes/post-types/megamenu.php:151
+msgid "Label"
+msgstr ""
+
+#: classes/post-types/megamenu.php:153
+msgid "None"
+msgstr ""
+
+#: classes/post-types/megamenu.php:154
+msgid "New"
+msgstr ""
+
+#: classes/post-types/megamenu.php:155
+msgid "Hot"
+msgstr ""
+
+#: classes/post-types/megamenu.php:156
+msgid "Featured"
+msgstr ""
+
+#: classes/post-types/team.php:30 classes/post-types/team.php:42
+msgid "Tbay Teams"
+msgstr ""
+
+#: classes/post-types/team.php:31
+msgid "Team"
+msgstr ""
+
+#: classes/post-types/team.php:32 classes/post-types/team.php:33
+msgid "Add New Team"
+msgstr ""
+
+#: classes/post-types/team.php:34
+msgid "Edit Team"
+msgstr ""
+
+#: classes/post-types/team.php:35
+msgid "New Team"
+msgstr ""
+
+#: classes/post-types/team.php:36
+msgid "All Teams"
+msgstr ""
+
+#: classes/post-types/team.php:37
+msgid "View Team"
+msgstr ""
+
+#: classes/post-types/team.php:38
+msgid "Search Team"
+msgstr ""
+
+#: classes/post-types/team.php:39
+msgid "No Teams found"
+msgstr ""
+
+#: classes/post-types/team.php:40
+msgid "No Teams found in Trash"
+msgstr ""
+
+#: classes/post-types/team.php:54
+msgid "mentor"
+msgstr ""
+
+#: classes/post-types/team.php:64 classes/post-types/team.php:74
+msgid "Team Categories"
+msgstr ""
+
+#: classes/post-types/team.php:65
+msgid "Team Category"
+msgstr ""
+
+#: classes/post-types/team.php:66
+msgid "Search Team Categories"
+msgstr ""
+
+#: classes/post-types/team.php:67
+msgid "All Team Categories"
+msgstr ""
+
+#: classes/post-types/team.php:68
+msgid "Parent Team Category"
+msgstr ""
+
+#: classes/post-types/team.php:69
+msgid "Parent Team Category:"
+msgstr ""
+
+#: classes/post-types/team.php:70
+msgid "Edit Team Category"
+msgstr ""
+
+#: classes/post-types/team.php:71
+msgid "Update Team Category"
+msgstr ""
+
+#: classes/post-types/team.php:72
+msgid "Add New Team Category"
+msgstr ""
+
+#: classes/post-types/team.php:73
+msgid "New Team Category"
+msgstr ""
+
+#: classes/post-types/team.php:81
+msgid "team-category"
+msgstr ""
+
+#: classes/post-types/team.php:95
+msgid "More Informations"
+msgstr ""
+
+#: classes/post-types/team.php:110 classes/post-types/testimonial.php:73
+msgid "Job"
+msgstr ""
+
+#: classes/post-types/team.php:115
+msgid "Facebook"
+msgstr ""
+
+#: classes/post-types/team.php:120
+msgid "Twitter"
+msgstr ""
+
+#: classes/post-types/team.php:125
+msgid "Behance"
+msgstr ""
+
+#: classes/post-types/team.php:130
+msgid "Linkedin"
+msgstr ""
+
+#: classes/post-types/team.php:135
+msgid "Instagram"
+msgstr ""
+
+#: classes/post-types/team.php:140
+msgid "Google Plus"
+msgstr ""
+
+#: classes/post-types/team.php:145
+msgid "Pinterest"
+msgstr ""
+
+#: classes/post-types/testimonial.php:24
+msgid "Tbay Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:25
+msgid "Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:26 classes/post-types/testimonial.php:27
+msgid "Add New Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:28
+msgid "Edit Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:30
+msgid "All Testimonials"
+msgstr ""
+
+#: classes/post-types/testimonial.php:31
+msgid "View Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:32
+msgid "Search Testimonial"
+msgstr ""
+
+#: classes/post-types/testimonial.php:33
+msgid "No Testimonials found"
+msgstr ""
+
+#: classes/post-types/testimonial.php:34
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: classes/post-types/testimonial.php:36
+msgid "Tbay Testimonials"
+msgstr ""
+
+#: classes/post-types/testimonial.php:57
+msgid "Testimonial Information"
+msgstr ""
+
+#: classes/post-types/testimonial.php:76
+msgid "Enter Job example CEO, CTO"
+msgstr ""
+
+#: classes/post-types/testimonial.php:79
+msgid "Testimonial Link"
+msgstr ""
+
+#: classes/widgets/facebook_like.php:7
+msgid "Tbay Facebook Like Box"
+msgstr ""
+
+#: classes/widgets/facebook_like.php:8
+msgid "Adds support for Facebook Like Box. "
+msgstr ""
+
+#: classes/widgets/instagram.php:7
+msgid "Tbay Instagram Widget"
+msgstr ""
+
+#: classes/widgets/instagram.php:8
+msgid "Show instagram"
+msgstr ""
+
+#: classes/widgets/instagram.php:32
+msgid "Style 1"
+msgstr ""
+
+#: classes/widgets/instagram.php:36 classes/widgets/twitter.php:57
+msgid "Title:"
+msgstr ""
+
+#: classes/widgets/instagram.php:40
+msgid "Username:"
+msgstr ""
+
+#: classes/widgets/instagram.php:44
+msgid "Number:"
+msgstr ""
+
+#: classes/widgets/instagram.php:47
+msgid "Photo size"
+msgstr ""
+
+#: classes/widgets/instagram.php:49
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/widgets/instagram.php:50
+msgid "Small"
+msgstr ""
+
+#: classes/widgets/instagram.php:51
+msgid "Large"
+msgstr ""
+
+#: classes/widgets/instagram.php:52
+msgid "Original"
+msgstr ""
+
+#: classes/widgets/instagram.php:55
+msgid "Open links in"
+msgstr ""
+
+#: classes/widgets/instagram.php:57
+msgid "Current window (_self)"
+msgstr ""
+
+#: classes/widgets/instagram.php:58
+msgid "New window (_blank)"
+msgstr ""
+
+#: classes/widgets/instagram.php:61
+msgid "Style"
+msgstr ""
+
+#: classes/widgets/instagram.php:69
+msgid "Columns:"
+msgstr ""
+
+#: classes/widgets/twitter.php:8
+msgid "Tbay Latest Twitter"
+msgstr ""
+
+#: classes/widgets/twitter.php:9
+msgid "Latest Twitter widget."
+msgstr ""
+
+#: classes/widgets/twitter.php:34
+msgid "Latest tweets."
+msgstr ""
+
+#: classes/widgets/twitter.php:52
+msgid "Yes"
+msgstr ""
+
+#: classes/widgets/twitter.php:53
+msgid "No"
+msgstr ""
+
+#: classes/widgets/twitter.php:61
+msgid "Twitter Username:"
+msgstr ""
+
+#: classes/widgets/twitter.php:65
+msgid "Limit:"
+msgstr ""
+
+#: classes/widgets/twitter.php:69
+msgid "Twitter Id:"
+msgstr ""
+
+#: classes/widgets/twitter.php:73
+msgid "Border Color:"
+msgstr ""
+
+#: classes/widgets/twitter.php:78
+msgid "Link Color:"
+msgstr ""
+
+#: classes/widgets/twitter.php:83
+msgid "Text Color:"
+msgstr ""
+
+#: classes/widgets/twitter.php:88
+msgid "Name Color:"
+msgstr ""
+
+#: classes/widgets/twitter.php:93
+msgid "Show background"
+msgstr ""
+
+#: classes/widgets/twitter.php:102
+msgid "Show Replies"
+msgstr ""
+
+#: classes/widgets/twitter.php:111
+msgid "Show Header"
+msgstr ""
+
+#: classes/widgets/twitter.php:120
+msgid "Show Footer"
+msgstr ""
+
+#: classes/widgets/twitter.php:129
+msgid "Show Border"
+msgstr ""
+
+#: classes/widgets/twitter.php:138
+msgid "Show Scrollbar"
+msgstr ""
+
+#: functions-preset.php:112
+msgid "Preset Manager"
+msgstr ""
+
+#: functions-preset.php:115
+msgid "Current preset default: "
+msgstr ""
+
+#: functions-preset.php:117
+msgid "Create a new preset"
+msgstr ""
+
+#: functions-preset.php:118
+msgid "Add new"
+msgstr ""
+
+#: functions-preset.php:122
+msgid "Set default preset"
+msgstr ""
+
+#: functions-preset.php:125
+msgid "Default"
+msgstr ""
+
+#: functions-preset.php:130
+msgid "Set Default"
+msgstr ""
+
+#: functions-preset.php:131
+msgid "Duplicate"
+msgstr ""
+
+#: functions-preset.php:132
+msgid "Delete Preset"
+msgstr ""
+
+#: functions-preset.php:133
+msgid "Key:"
+msgstr ""
+
+#: functions.php:30
+msgid "Find"
+msgstr ""
+
+#: functions.php:35
+msgid "Latitude"
+msgstr ""
+
+#: functions.php:40
+msgid "Longitude"
+msgstr ""
+
+#: functions.php:222
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: functions.php:225
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: functions.php:231 functions.php:238 functions.php:241
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: functions.php:250
+msgid "Instagram Image"
+msgstr ""
+
+#: functions.php:276
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: functions.php:295
+msgid "year"
+msgstr ""
+
+#: functions.php:296
+msgid "month"
+msgstr ""
+
+#: functions.php:297
+msgid "week"
+msgstr ""
+
+#: functions.php:298
+msgid "day"
+msgstr ""
+
+#: functions.php:299
+msgid "hour"
+msgstr ""
+
+#: functions.php:300
+msgid "minute"
+msgstr ""
+
+#: functions.php:301
+msgid "second"
+msgstr ""
+
+#: functions.php:313
+msgid "s"
+msgstr ""
+
+#: functions.php:320
+msgid " ago"
+msgstr ""
+
+#: functions.php:323
+msgid "Just now"
+msgstr ""
+
+#: libs/extensions/repeater/repeater/field_repeater.php:180
+#: libs/extensions/repeater/repeater/field_repeater.php:223
+msgid "Delete"
+msgstr ""
+
+#: libs/extensions/repeater/repeater/field_repeater.php:245
+msgid "Add"
+msgstr ""

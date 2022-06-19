@@ -1,0 +1,180 @@
+<wpml-config>
+    <shortcode-list>tbay_gridposts, tbay_title_heading, tbay_featurebanner, tbay_counter, tbay_brands, tbay_socials_link, tbay_newsletter,
+     tbay_banner, tbay_custom_menu, tbay_testimonials, tbay_ourteam, tbay_gallery, tbay_video, tbay_features, tbay_product_countdown, 
+     tbay_productcategory, tbay_list_categories, tbay_products, tbay_productstabs, tbay_categoriestabs, tbay_custom_image_list_categories </shortcode-list>
+    <shortcodes>
+        <shortcode>
+            <tag>tbay_gridposts</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_title_heading</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>descript</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_featurebanner</tag>
+            <attributes>
+                <attribute>title1</attribute>
+                <attribute>description1</attribute>
+                <attribute>title2</attribute>
+                <attribute>description2</attribute>
+                <attribute>title3</attribute>
+                <attribute>description3</attribute>
+                <attribute>title4</attribute>
+                <attribute>description4</attribute>
+                <attribute>title5</attribute>
+                <attribute>description5</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_counter</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_brands</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_socials_link</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_newsletter</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_banner</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_custom_menu</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_testimonials</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_ourteam</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_gallery</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_video</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>description</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_features</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_product_countdown</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_productcategory</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_list_categories</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_products</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_productstabs</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_categoriestabs</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+
+        <shortcode>
+            <tag>tbay_custom_image_list_categories</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+            </attributes>
+        </shortcode>
+
+    </shortcodes>
+</wpml-config>

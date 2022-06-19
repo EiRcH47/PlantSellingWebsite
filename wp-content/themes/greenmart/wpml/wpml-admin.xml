@@ -1,0 +1,30 @@
+<wpml-config>
+  <admin-texts>
+    <key name="greenmart_tbay_theme_options">
+      <key name="copyright_text"/>
+      <key name="sale_tag_custom"/>
+      <key name="custom_label_featured"/>
+      <key name="menu_mobile_title"/>
+      <key name="menu_mobile_search_items"/>
+      <key name="menu_mobile_no_esults"/>
+      <key name="menu_mobile_search_splash"/>
+      <key name="menu_social_slides">
+        <key name="0">
+          <key name="url"/>
+        </key>
+        <key name="1">
+          <key name="url"/>
+        </key>
+        <key name="2">
+          <key name="url"/>
+        </key>
+        <key name="3">
+          <key name="url"/>
+        </key>
+      </key>
+      <key name="menu_mobile_tab_one"/>
+      <key name="menu_mobile_tab_scond"/>
+      <key name="mobile_search_placeholder"/>
+    </key>
+  </admin-texts>
+</wpml-config>

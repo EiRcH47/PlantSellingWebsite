@@ -1,0 +1,14 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_subtitle</custom-field>
+        <custom-field action="translate">tbay_page_layout</custom-field>
+        <custom-field action="translate">tbay_page_fullwidth</custom-field>
+        <custom-field action="translate">tbay_page_left_sidebar</custom-field>
+        <custom-field action="translate">tbay_page_right_sidebar</custom-field>
+        <custom-field action="translate">tbay_page_show_title</custom-field>
+        <custom-field action="translate">tbay_page_show_breadcrumb</custom-field>
+        <custom-field action="translate">tbay_page_header_type</custom-field>
+        <custom-field action="translate">tbay_page_footer_type</custom-field>
+        <custom-field action="translate">post_views_count</custom-field>
+    </custom-fields>
+</wpml-config>

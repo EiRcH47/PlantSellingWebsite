@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"greenmart","mapped_name":"javascripts-plantfresh"},"child_theme":{"folder_name":"greenmart-child","mapped_name":"plant-fresh-child"},"allowed_paths":["\/home\/u590976107\/domains\/abttemp.dynamicmotorworld.com\/public_html\/wp-content\/themes"],"cache_path":"\/home\/u590976107\/domains\/abttemp.dynamicmotorworld.com\/public_html\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>

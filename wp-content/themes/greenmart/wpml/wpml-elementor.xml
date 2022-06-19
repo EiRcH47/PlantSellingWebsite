@@ -1,0 +1,171 @@
+<wpml-config>
+    <elementor-widgets>
+        <widget name="tbay-heading">
+            <fields>
+                <field type="Heading: Title" editor_type="LINE">heading_title</field>
+                <field type="Heading: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-features">
+            <fields-in-item items_of="features">
+                <field type="Features Item: Title" editor_type="LINE">feature_title</field>
+                <field type="Features Item: Description" editor_type="AREA">feature_desc</field>
+            </fields-in-item>
+        </widget>
+
+        <widget name="tbay-brands">
+            <fields>
+                <field type="Brands: Title" editor_type="LINE">heading_title</field>
+                <field type="Brands: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-posts-grid">
+            <fields>
+                <field type="Posts Grid: Title" editor_type="LINE">heading_title</field>
+                <field type="Posts Grid: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-our-team">
+             <fields>
+                <field type="Our Team: Title" editor_type="LINE">heading_title</field>
+                <field type="Our Team: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="our_team">
+                <field type="Our Team Item: Name" editor_type="LINE">our_team_name</field>
+                <field type="Our Team Item: Job" editor_type="LINE">our_team_job</field>
+            </fields-in-item>
+        </widget>
+
+        <widget name="tbay-testimonials">
+            <fields>
+                <field type="Testimonials: Title" editor_type="LINE">heading_title</field>
+                <field type="Testimonials: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="testimonials">
+                <field type="Testimonials Item: Name" editor_type="LINE">testimonial_name</field>
+                <field type="Testimonials Item: Job" editor_type="LINE">testimonial_job</field>
+                <field type="Testimonials Item: Excerpt" editor_type="AREA">testimonial_excerpt</field>
+            </fields-in-item>
+        </widget>
+
+         <widget name="tbay-button">
+            <fields>
+                <field type="Button: Text" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+
+         <widget name="tbay-menu-vertical">
+            <fields>
+                <field type="Menu-Vertical: Title" editor_type="LINE">heading_title</field>
+                <field type="Menu-Vertical: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-nav-menu">
+            <fields>
+                <field type="Toggle Menu: Title" editor_type="LINE">toggle_menu_title</field>
+                <field type="Toggle canvas: Title" editor_type="LINE">toggle_canvas_title</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-account">
+            <fields>
+                <field type="Account: Text Before" editor_type="LINE">text_before</field>
+                <field type="Account: Text Before" editor_type="LINE">text_after</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-search-form">
+            <fields>
+                <field type="Search Form: Placeholder" editor_type="LINE">placeholder_text</field>
+                <field type="Search Form: Validate" editor_type="LINE">vali_input_search</field>
+                <field type="Search Form: Text Button" editor_type="LINE">text_button_search</field>
+                <field type="Search Form: Text Categories" editor_type="LINE">text_categories_search</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-mini-cart">
+            <fields>
+                <field type="Mini Cart: Title" editor_type="LINE">title_mini_cart</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-search-popup">
+            <fields>
+                <field type="Search Popup: Placeholder" editor_type="LINE">placeholder_text</field>
+                <field type="Search Popup: Validate" editor_type="LINE">vali_input_search</field>
+                <field type="Search Popup: Text Button" editor_type="LINE">text_button_search</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-products">
+            <fields>
+                <field type="Products: Title" editor_type="LINE">heading_title</field>
+                <field type="Products: Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-product-category">
+            <fields>
+                <field type="Product Category: Title" editor_type="LINE">heading_title</field>
+                <field type="Product Category: Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-product-tabs">
+            <fields>
+                <field type="Product tabs: Title" editor_type="LINE">heading_title</field>
+                <field type="Product tabs: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+            <fields-in-item items_of="list_product_tabs">
+                <field type="Product Tabs Item: Title" editor_type="LINE">product_tabs_title</field>
+            </fields-in-item>
+        </widget>
+
+        <widget name="tbay-woocommerce-tags">
+            <fields>
+                <field type="Woocommerce Tags: Title" editor_type="LINE">heading_title</field>
+                <field type="Woocommerce Tags: Sub Title" editor_type="LINE">heading_subtitle</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-product-categories-tabs">
+            <fields>
+                <field type="Categories Tabs: Title" editor_type="LINE">heading_title</field>
+                <field type="Categories Tabs: Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show More: Text" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-list-categories-product">
+            <fields>
+                <field type="List Categories: Title" editor_type="LINE">heading_title</field>
+                <field type="List Categories: Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show All: Text" editor_type="LINE">text_button</field>
+            </fields>
+        </widget>
+
+        <widget name="tbay-custom-image-list-categories">
+            <fields>
+                <field type="Custom Image List Categories: Title" editor_type="LINE">heading_title</field>
+                <field type="Custom Image List Categories: Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show All: Text" editor_type="LINE">text_show_all</field>
+            </fields>
+        </widget>
+
+         <widget name="tbay-product-count-down">
+            <fields>
+                <field type="Product Count Down: Title" editor_type="LINE">heading_title</field>
+                <field type="Product Count Down: Sub Title" editor_type="LINE">heading_subtitle</field>
+                <field type="Show All: Text" editor_type="LINE">text_show_all</field>
+            </fields>
+        </widget>
+
+
+    </elementor-widgets>
+</wpml-config>

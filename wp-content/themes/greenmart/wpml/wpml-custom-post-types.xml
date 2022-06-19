@@ -1,0 +1,7 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">tbay_footer</custom-type>
+        <custom-type translate="1">tbay_megamenu</custom-type>
+        <custom-type translate="1">tbay_header</custom-type>
+    </custom-types>
+</wpml-config>
